@@ -1,8 +1,8 @@
-import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import breadcrumbsStyle from "./styles/breadcrumbs.scss"
-import { FullSlug, SimpleSlug, resolveRelative, simplifySlug } from "../util/path"
-import { classNames } from "../util/lang"
 import { trieFromAllFiles } from "../util/ctx"
+import { classNames } from "../util/lang"
+import { FullSlug, SimpleSlug, resolveRelative, simplifySlug } from "../util/path"
+import breadcrumbsStyle from "./styles/breadcrumbs.scss"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 type CrumbData = {
   displayName: string
@@ -29,7 +29,7 @@ interface BreadcrumbOptions {
 }
 
 const defaultOptions: BreadcrumbOptions = {
-  spacerSymbol: "❯",
+  spacerSymbol: "/",
   rootName: "Home",
   resolveFrontmatterTitle: true,
   showCurrentPage: true,
@@ -80,7 +80,7 @@ export default ((opts?: Partial<BreadcrumbOptions>) => {
       <nav class={classNames(displayClass, "breadcrumb-container")} aria-label="breadcrumbs">
         {crumbs.map((crumb, index) => (
           <div class="breadcrumb-element">
-            <a href={crumb.path}>{crumb.displayName}</a>
+            <span>{crumb.displayName}</span>
             {index !== crumbs.length - 1 && <p>{` ${options.spacerSymbol} `}</p>}
           </div>
         ))}
