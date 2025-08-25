@@ -11,7 +11,7 @@ tags:
 
 "No!" the patient cried out. It felt like their life was slipping away.
 
-"It's worse, though," the doctor made no attempt to comfort their patient, "The cancer team doesn't know what kind of cancer it is. They claim the DNA is foreign, unlike anything they've seen. And it's spreading rapidly. Even as I removed my tools it was growing, practically instantaneously. It grew over the tip of my scalpel."
+"It's worse, though," the doctor made no attempt to comfort their patient, "Our team cannot identify the type of cancer. They claim the DNA is foreign, unlike anything they've seen. And it's spreading rapidly. Even as I removed my tools it was growing, practically instantaneously. It grew over the tip of my scalpel."
 
 "What does this mean?" the patient murmured, puzzled by what they were hearing from the doctor.
 
