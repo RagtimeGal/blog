@@ -1,6 +1,8 @@
 ---
 title: Short Stories
 enableToc: true
+tags:
+  - meta
 ---
 
 I don't always write actual stories—most of my writing is devoted solely to my larger projects (like worldbuilding and games)—but when I do, I prefer them to be short and sweet. Most of these are written based off abrupt improv sessions with friends.

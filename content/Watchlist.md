@@ -1,6 +1,8 @@
 ---
 title: The Watchlist
 enableToc: true
+tags:
+  - meta
 ---
 Welcome to my watchlist. This is a place where I'm writing down movies and television shows I would like to watch, or write short paragraph-reviews of ones which I have watched. I am not a critic, I do not know the third thing about what makes a piece of visual media good[^1]. I am not particularly well-versed in the art of movie-going—I'm incredibly uncultured. And that's part of why I started this page.
 

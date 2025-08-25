@@ -1,6 +1,8 @@
 ---
 title: Dream Journal
 enableToc: true
+tags:
+  - meta
 ---
 
 I've been writing down dreams since the start of 2020, though the frequency of me remembering my dreams has decreased since I originally started. Dreams are storified and sometimes edited to be more suitable[^1] for a general audience.
