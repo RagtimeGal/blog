@@ -77,7 +77,7 @@ As I continued to work on *The N'Argonath Experiment*—which had, and maintains
 
 There's really not much to comment about on the history of *Mysenvar*, most of its history lies in my other projects, like *Age of Magic* and *The Nargonath Experiment*. My first brainstorming session for the setting occurred on my birthday, and that session defined the setting as it is today. That brainstorming included the first mention of stars as the written language of the Gods, events like the birth of the Creation Quadrinity and Quickening, and even the creation of the Harmonic Treaty following the end of the God-War.
 
-*Mysenvar* has come a long way since then though, the core concepts of the setting haven't changed, but the execution of ideas and depth of the world have increased in quality drastically.
+*Mysenvar* has come a long way since then. Although the core concepts of the setting haven't changed, the execution of those ideas and the depth of the setting's world have increased drastically in quality.
 # The Present
 None of my projects are created with the end goal of monetization—though I cannot say I've always held this standard. Although it would be nice to some day support myself based on my creativity alone; it's a goal I hope to achieve, but not one I purposefully strive towards.
 
