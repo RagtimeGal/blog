@@ -1,5 +1,5 @@
 ---
-title: Catching Fire Notes
+title: Catching Fire
 enableToc: true
 tags:
  - reading/notes

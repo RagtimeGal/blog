@@ -1,5 +1,5 @@
 ---
-title: How to Invent Everything Notes
+title: How to Invent Everything
 enableToc: true
 tags:
  - reading/notes

@@ -48,20 +48,21 @@ It's fun to sit down and watch movies, I've not done it often in my life. The ti
 4. Speedracer
 5. Barbie
 6. Dear Santa (2024)
-7. The Princess Bride
-8. Dance Flick
-9. Starship Troopers
-10. Tag
-11. Ferris Bueller's Day Off
-12. Kingpin
-13. The Phoenician Scheme
-14. The Nutty Professor
-15. The Machine
-16. Groundhog Day
-17. Idiocracy
-18. Truman Show
-19. Forrest Gump
-20. Scary Movie Series
+7. The Wonderful Story of Henry Sugar
+8. The Princess Bride
+9. Dance Flick
+10. Starship Troopers
+11. Tag
+12. Ferris Bueller's Day Off
+13. Kingpin
+14. The Phoenician Scheme
+15. The Nutty Professor
+16. The Machine
+17. Groundhog Day
+18. Idiocracy
+19. Truman Show
+20. Forrest Gump
+21. Scary Movie Series
 	1. Scary Movie
 	2. Scary Movie 2
 	3. Scary Movie 3
