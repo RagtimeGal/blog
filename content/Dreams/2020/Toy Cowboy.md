@@ -1,5 +1,5 @@
 ---
-title: Toy Cowboy
+title: "Toy Cowboy"
 enableToc: false
 date: 10/29/20
 tags:

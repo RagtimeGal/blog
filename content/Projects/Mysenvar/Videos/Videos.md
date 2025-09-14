@@ -1,5 +1,5 @@
 ---
-title: Video Ideas
+title: "Video Ideas"
 enableToc: true
 tags:
  - project/mysenvar

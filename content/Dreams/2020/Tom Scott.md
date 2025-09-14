@@ -1,5 +1,5 @@
 ---
-title: Tom Scott
+title: "Tom Scott"
 enableToc: false
 date: 11/2/20
 tags:

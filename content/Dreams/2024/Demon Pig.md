@@ -1,5 +1,5 @@
 ---
-title: Demon Pig
+title: "Demon Pig"
 enableToc: false
 date: 5/21/24
 tags:

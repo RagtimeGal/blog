@@ -1,5 +1,5 @@
 ---
-title: Custom Night
+title: "Custom Night"
 enableToc: false
 date: 5/22/24
 tags:

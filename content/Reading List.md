@@ -1,5 +1,5 @@
 ---
-title: The Reading List
+title: "The Reading List"
 enableToc: true
 tags:
  - reading

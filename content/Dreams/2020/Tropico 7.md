@@ -1,5 +1,5 @@
 ---
-title: Tropico 7
+title: "Tropico 7"
 enableToc: false
 date: 4/9/20
 tags:

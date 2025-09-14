@@ -1,5 +1,5 @@
 ---
-title: Sala-man-der Man
+title: "Sala-man-der"
 enableToc: false
 date: 11/24/24
 tags:

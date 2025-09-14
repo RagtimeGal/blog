@@ -1,5 +1,5 @@
 ---
-title: An Italian Sacrifice
+title: "An Italian Sacrifice"
 enableToc: false
 date: 6/8/23
 tags:

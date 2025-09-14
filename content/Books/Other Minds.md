@@ -1,5 +1,5 @@
 ---
-title: Other Minds
+title: "Other Minds"
 enableToc: true
 tags:
  - reading/notes

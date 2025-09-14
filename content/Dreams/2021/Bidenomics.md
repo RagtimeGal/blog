@@ -1,5 +1,5 @@
 ---
-title: Bidenomics
+title: "Bidenomics"
 enableToc: false
 date: 8/17/21
 tags:

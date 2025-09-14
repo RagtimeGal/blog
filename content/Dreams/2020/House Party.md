@@ -1,5 +1,5 @@
 ---
-title: House Party
+title: "House Party"
 enableToc: false
 date: 7/8/20
 tags:

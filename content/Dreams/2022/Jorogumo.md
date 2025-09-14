@@ -1,5 +1,5 @@
 ---
-title: Jorogumo
+title: "Jorogumo"
 enableToc: false
 date: 11/5/22
 tags:

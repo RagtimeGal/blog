@@ -1,5 +1,5 @@
 ---
-title: Liminal Space
+title: "Liminal Space"
 enableToc: false
 date: 5/22/24
 tags:

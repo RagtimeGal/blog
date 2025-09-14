@@ -1,5 +1,5 @@
 ---
-title: Canvas Classroom
+title: "Canvas Classroom"
 enableToc: false
 date: 7/29/20
 tags:

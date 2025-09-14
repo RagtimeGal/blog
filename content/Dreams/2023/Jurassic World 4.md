@@ -1,5 +1,5 @@
 ---
-title: Jurassic World 4
+title: "Jurassic World 4"
 enableToc: false
 date: 6/14/23
 tags:

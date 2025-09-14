@@ -1,5 +1,5 @@
 ---
-title: Lettuce War
+title: "Lettuce War"
 enableToc: false
 date: 6/3/24
 tags:

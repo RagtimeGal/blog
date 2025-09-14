@@ -1,5 +1,5 @@
 ---
-title: DOOM Hivemind
+title: "DOOM Hivemind"
 enableToc: false
 date: 7/26/20 
 tags:

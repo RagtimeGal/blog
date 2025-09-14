@@ -1,5 +1,5 @@
 ---
-title: Ruin Monster
+title: "Ruin Monster"
 enableToc: false
 date: 6/18/23
 tags:

@@ -1,5 +1,5 @@
 ---
-title: Gay Man
+title: "Gay Man"
 enableToc: false
 date: 8/25/21
 tags:

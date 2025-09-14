@@ -1,5 +1,5 @@
 ---
-title: Diggery Doo Dave
+title: "Diggery Doo Dave"
 enableToc: true
 tags:
  - story

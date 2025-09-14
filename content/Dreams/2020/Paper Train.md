@@ -1,5 +1,5 @@
 ---
-title: Paper Train
+title: "Paper Train"
 enableToc: false
 date: 7/19/20
 tags:

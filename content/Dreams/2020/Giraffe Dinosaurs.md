@@ -1,5 +1,5 @@
 ---
-title: Giraffe Dinosaurs
+title: "Giraffe Dinosaurs"
 enableToc: false
 date: 9/19/20
 tags:

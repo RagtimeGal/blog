@@ -1,5 +1,5 @@
 ---
-title: Halloween 
+title: "Halloween" 
 enableToc: false
 date: 10/18/22
 tags:

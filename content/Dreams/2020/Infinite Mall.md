@@ -1,5 +1,5 @@
 ---
-title: Infinite Mall
+title: "Infinite Mall"
 enableToc: false
 date: 9/20/20
 tags:

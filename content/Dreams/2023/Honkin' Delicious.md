@@ -1,5 +1,5 @@
 ---
-title: Honkin' Delicious
+title: "Honkin' Delicious"
 enableToc: false
 date: 9/20/23
 tags:

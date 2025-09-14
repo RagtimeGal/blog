@@ -1,5 +1,5 @@
 ---
-title: Dream Journal
+title: "Dream Journal"
 enableToc: true
 tags:
   - meta

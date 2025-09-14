@@ -1,5 +1,5 @@
 ---
-title: Rabid Rabbid
+title: "Rabid Rabbid"
 enableToc: false
 date: 7/8/20
 tags:

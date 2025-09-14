@@ -1,5 +1,5 @@
 ---
-title: The Watchlist
+title: "The Watchlist"
 enableToc: true
 tags:
   - meta

@@ -1,5 +1,5 @@
 ---
-title: Pedo Beat Down
+title: "Pedo Beat Down"
 enableToc: false
 date: 2/9/24
 tags:

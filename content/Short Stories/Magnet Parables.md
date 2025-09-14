@@ -1,5 +1,5 @@
 ---
-title: Magnet Parables
+title: "Magnet Parables"
 enableToc: true
 tags:
  - story

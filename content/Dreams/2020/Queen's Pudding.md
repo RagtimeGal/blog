@@ -1,5 +1,5 @@
 ---
-title: Queen's Pudding
+title: "Queen's Pudding"
 enableToc: false
 date: 9/20/20
 tags:

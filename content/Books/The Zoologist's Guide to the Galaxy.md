@@ -1,5 +1,5 @@
 ---
-title: The Zoologist's Guide to the Galaxy
+title: "The Zoologist's Guide to the Galaxy"
 enableToc: true
 tags:
  - reading/notes

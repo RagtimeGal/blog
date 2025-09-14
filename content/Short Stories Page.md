@@ -1,5 +1,5 @@
 ---
-title: Short Stories
+title: "Short Stories"
 enableToc: true
 tags:
   - meta

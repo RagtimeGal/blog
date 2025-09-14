@@ -1,5 +1,5 @@
 ---
-title: 
+title: "Hoarah Lion Warrior"
 enableToc: false
 date: 12/15/24
 tags:

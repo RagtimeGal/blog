@@ -1,5 +1,5 @@
 ---
-title: On the Topic of Everything
+title: "On the Topic of Everything"
 enableToc: true
 tags:
  - story

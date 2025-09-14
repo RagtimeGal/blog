@@ -1,5 +1,5 @@
 ---
-title: Getaway Got Away
+title: "Getaway Got Away"
 enableToc: false
 date: 5/3/24
 tags:

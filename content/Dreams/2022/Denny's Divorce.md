@@ -1,5 +1,5 @@
 ---
-title: Denny's Divorce
+title: "Denny's Divorce"
 enableToc: false
 date: 10/18/22
 tags:

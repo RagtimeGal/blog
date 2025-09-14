@@ -1,5 +1,5 @@
 ---
-title: Couch Quilting
+title: "Couch Quilting"
 enableToc: false
 date: 3/27/20 
 tags:

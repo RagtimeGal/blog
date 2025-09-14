@@ -1,5 +1,5 @@
 ---
-title: Alignment
+title: "Alignment"
 enableToc: false
 date: 5/19/24
 tags:

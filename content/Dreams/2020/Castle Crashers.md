@@ -1,5 +1,5 @@
 ---
-title: Castle Crashers
+title: "Castle Crashers"
 enableToc: false
 date: 9/9/20
 tags:

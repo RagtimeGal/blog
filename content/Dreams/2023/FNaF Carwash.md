@@ -1,5 +1,5 @@
 ---
-title: FNaF Carwash
+title: "FNaF Carwash"
 enableToc: false
 date: 11/9/23
 tags:

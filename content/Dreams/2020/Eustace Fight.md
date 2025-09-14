@@ -1,5 +1,5 @@
 ---
-title: Eustace Fight
+title: "Eustace Fight"
 enableToc: false
 date: 11/16/20
 tags:

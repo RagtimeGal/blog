@@ -1,5 +1,5 @@
 ---
-title: The Fungus
+title: "The Fungus"
 enableToc: false
 date: 10/5/20
 tags:

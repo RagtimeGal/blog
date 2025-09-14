@@ -1,5 +1,5 @@
 ---
-title: Night Prowler
+title: "Night Prowler"
 enableToc: false
 date: 10/26/20
 tags:

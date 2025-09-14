@@ -1,5 +1,5 @@
 ---
-title: Shadow Man
+title: "Shadow Man"
 enableToc: false
 date: 9/10/20
 tags:
