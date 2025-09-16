@@ -26,6 +26,7 @@ This is my reading list, containing all of the books I have read, am currently r
 	- *Mistborn* by Brandon Sanderson
 	- *Project Hail Mary* by Andy Weir
 	- *The Hitchhiker's Guide to the Galaxy* by Douglas Adams
+	- *The Society of the Spectacle* by Guy Debord
 # Past Reads
 - *[[Books/Other Minds|Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness]]* by Peter Godfrey-Smith
 - *[[Books/How to Invent Everything|How to Invent Everything]]* by Ryan North

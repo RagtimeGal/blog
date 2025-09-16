@@ -15,7 +15,7 @@ If you're visiting this site regarding a business inquiry or are otherwise looki
 I want to take the opportunity to use this website to organically plan and plot my personal projects. I often find that I dwell too much on organization, and it gets in the way of making real progress, so I want to use Ragno Rants as not just a place to put my random thoughts and ideas, but also publicly plan my projects.
 
 I'm a jack of many trades and a master of none—but they say that's better than a master of one. My projects vary as widely as my personal interests do:
-- My [[Dream Journal|dream journal]] contains a list of my dreams, rewritten as short stories, dating back to early 2020;
+- My [[Dream Journal/Dream Journal|dream journal]] contains a list of my dreams, rewritten as short stories, dating back to early 2020;
 - My [[Reading List|reading list]] and [[Watchlist|watching list]] include a great many books, movies, and television shows I would like to get around to consuming;
 - I have various [[Short Stories Page|short stories]] which I write from time-to-time;
 - [[Projects/Mysenvar/Mysenvar|Mysenvar]] is a low-magic fantasy setting intended to be free to use by anyone who wishes. Readers explore the world of Mysenvar through the lens of the Encyclopedia Mysenvaria;

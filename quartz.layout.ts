@@ -8,9 +8,12 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "Instagram": "https://www.instagram.com/ragno.gal/",
+      "Ko-fi": "https://ko-fi.com/ragnogal",
+      "YouTube": "https://www.youtube.com/@RagnoGal",
       "Bluesky": "https://bsky.app/profile/ragnois.gay",
       "Steam": "https://steamcommunity.com/id/ragnogal/",
+      "Tumblr": "https://ragnogal.tumblr.com/",
+      "Instagram": "https://www.instagram.com/ragno.gal/",
     },
   }),
 }
@@ -35,16 +38,12 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
-        { Component: Component.ReaderMode() },
       ],
     }),
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
   ],
 }
 
@@ -60,7 +59,6 @@ export const defaultListPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        { Component: Component.Darkmode() },
       ],
     }),
     Component.Explorer(),
