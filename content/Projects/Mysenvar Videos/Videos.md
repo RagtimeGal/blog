@@ -6,7 +6,7 @@ tags:
 ---
 
 # Season One
-0. **Mysenvar, the Setting**
+0. **[[Projects/Mysenvar Videos/Scripts/S. 1, Ep. 0|Mysenvar, the Setting]]**
 	- Reviews the core of the settings, it's meaning, purpose, how people may contribute if they wish, how I work on it personally, etc. Basically the meta pages from the encyclopedia in video form.
 1. **Realities Composition, Personification, & Gods**
 2. **Limn, Stars, & God Tongue**

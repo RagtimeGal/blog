@@ -6,7 +6,7 @@ tags:
  - project/worldbuilding
 ---
 ## I wisely started with a map.
-I've been worldbuilding since I started drawing and writing, but what's worldbuilding? Worldbuilding is the process of creating a believable and immersive setting, often for books or games—although, I worldbuild for fun mostly. At the moment I have two primary projects: [[Projects/Mysenvar/Mysenvar|Mysenvar]] and [[Projects/The Argonaut Experiment|The Argonaut Experiment]]. I also find myself seldom working on a third project, [[Projects/Hithered|Hithered]]. For more information on any of the projects, you can visit their respective articles.
+I've been worldbuilding since I started drawing and writing, but what's worldbuilding? Worldbuilding is the process of creating a believable and immersive setting, often for books or games—although, I worldbuild for fun mostly. At the moment I have two primary projects: [[Projects/Mysenvar|Mysenvar]] and [[Projects/The Argonaut Experiment|The Argonaut Experiment]]. I also find myself seldom working on a third project, [[Projects/Hithered|Hithered]]. For more information on any of the projects, you can visit their respective articles.
 - *Mysenvar* is a low-magic fantasy setting, which readers may explore through the *[Encyclopedia Mysenvaria](https://mysenvaria.ragno.wiki/)*. It's a setting with a major focus on immersion, created with the intent that anyone can use it.
 - *The Argonaut Experiment* is a high-magic science-fiction setting with planned multi-media projects. TAE takes place in a galaxy devoid of humanity, where the prominent sophonts have a wide range of body plans and psychologies, with the intent to explore the intricacies of how vastly different alien civilizations can work together to triumph through adversity.
 - And *Hithered* is a silly fantasy/sci-fi mishmash set in a world of insects, where a cult of millipedes threatens the sanctity of the Dome with artifacts recovered from beyond The Fracture. The project has no planned end goal at the moment, but I think it'd be fun to look into publishing a campaign book for the setting.
@@ -79,8 +79,6 @@ There's really not much to comment about on the history of *Mysenvar*, most of i
 
 *Mysenvar* has come a long way since then. Although the core concepts of the setting haven't changed, the execution of those ideas and the depth of the setting's world have increased drastically in quality.
 # The Present
-None of my projects are created with the end goal of monetization—though I cannot say I've always held this standard. Although it would be nice to some day support myself based on my creativity alone; it's a goal I hope to achieve, but not one I purposefully strive towards.
-
 Writing this article required a lot of trudging through message archives, post histories, and my memories—which are admittedly poor—and it was an eye-opening experience to the actual change and progress I've made over the years.
 
 Worldbuilding is my favorite hobby, and the one I've practiced the longest[^data_packing]. My projects are a large part of who I am; an extension of my beliefs and a showcase of my creativity. I've been building worlds since I first started drawing and writing. And, hopefully, I'll continue to practice worldbuilding well into the future.
