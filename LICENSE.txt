@@ -1,5 +1,54 @@
-MIT License
+# Ragno Rants License
 
+Ragno Rants (the "Site") contains:
+
+- **Text content** – posts, essays, dream journals, lore, and other written material.
+- **Images and media** – artwork, illustrations, and other non-text media created by the author.
+- **Code** – the backend, structure, and functionality powered by Quartz.
+
+Unless otherwise noted, all site content lives in the `content/` directory of the repository. Everything outside that folder is considered code.
+
+The Site’s text, images, and code are subject to different licenses, as outlined below.
+
+---
+
+## 1. Text Content
+
+Unless otherwise noted, all **original written text** on the Site is licensed under the **Creative Commons CC0 1.0 Universal (Public Domain Dedication)**.
+
+This means:
+
+- You may copy, modify, distribute, and use the text for any purpose, including commercial uses, without asking permission.
+- Attribution is not required.
+
+The CC0 dedication applies only to **my original writing**, not to any third-party intellectual property mentioned within that writing.
+
+### Third-Party References
+
+Some posts (for example, dream journals) may reference or describe characters, settings, or concepts owned by others. I do **not** claim any rights over those third-party works. The CC0 license applies only to my original text, not to any underlying IP owned by others.
+
+For more information on the CC0 1.0 Universal license, see the  
+[Creative Commons CC0 1.0 page](https://creativecommons.org/publicdomain/zero/1.0/).
+
+---
+
+## 2. Images and Media
+
+Unless otherwise noted, all **images, artwork, and other media files** on the Site are:
+
+**© Ragno, all rights reserved.**
+
+You may not copy, redistribute, or otherwise use these images or media files without explicit permission from the rights holder.
+
+If any specific image or media asset is released under a different license, that will be clearly indicated alongside the asset. In such cases, that specific license overrides the “all rights reserved” notice for that asset only.
+
+---
+
+## 3. Code
+
+The Site’s code (including the Quartz framework and any modifications to it) is licensed under the **MIT License**, the same as Quartz.
+
+```text
 Copyright (c) 2021 jackyzha0
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -18,4 +67,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE.```

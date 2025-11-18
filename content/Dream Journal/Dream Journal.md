@@ -5,7 +5,7 @@ tags:
   - meta
 ---
 
-I've been writing down dreams since the start of 2020, though the frequency of me remembering my dreams has decreased since I originally started. Dreams are storified and sometimes edited to be more suitable[^1] for a general audience.
+I've been writing down dreams since the start of 2020, though the frequency of me remembering my dreams appears to have decreased since I originally started. Dreams are storified and sometimes edited to be more suitable[^1] for a general audience.
 
 I'm of the opinion that dreams are (relatively) meaningless, just a result of our conscious self attempting to perceive meaningless junk as our subconscious cleans house. That, however, does not make it unfun to look back at dreams and analyze them, and I think it can be a very valid form of introspection (Not because they are actually meaningful, but because by analyzing them we give it meaning). I also think it's fun writing practice to convert my dreams into little short-stories, attempting to maintain the absurdity while balancing it with legibility.
 
