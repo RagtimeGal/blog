@@ -1,0 +1,79 @@
+---
+title: "Catching Fire"
+enableToc: true
+tags:
+ - reading/notes
+---
+
+This was a really fun book to read. Unlike most of the other books I've read I really didn't know a lot about this topic already, and it was truly interesting to learn the ways that diet may have impacted human evolution and vice versa. It was also interesting to learn about the examples we can find in nature.
+
+- **P. 2**: Cooking made us dependent on fuel.
+- **P. 7**: "Man-the-hunter" hypothesis. Meat-eating gave rise to many features we consider "human".
+- **P. 7**: Gathering was just as, or more, important than hunting
+- **P. 9**: Fire is just as necessary to us as water and food to other animals.
+- **P. 11**: Cooking marks the transition from nature to culture.
+- **P. 13**: "They suggested that cooking had shaped us, but they did not say how."
+- **P. 17**: People who eat raw food tend to be thinner.
+- **P. 20**: No-cook diets are linked to loss of sexual function.
+- **P. 22**: We like food with little fibers and lots of carbs.
+- **P. 27**: Societies tell stories of fire-less ancestors. 
+- **P. 28**: Inuit's cooked their meat well-done.
+- **P. 29**: Innuit eating habits are particularly interesting.
+- **P. 38**: Regardless of digestion, all animals receive benefits from cooked food.
+- **P. 40**: Digestion is costly, as expensive as locomotion. Naturally selection favored our ancestors who ate cooked food and had small guts.
+- **P. 44**: Cooked food means smaller digestive apparatus and less energy use.
+- **P. 47**: We need plants just as much as meat—protein poisoning.
+- **P. 52**: We have a reduced tolerance to toxins.
+- **P. 53**: We are cooks more than carnivores.
+- **P. 56**: Cooking reduces calories in various ways, but increases digestibility.
+- **P. 58**: To assess how much energy a food provides is to calculate ideal digestibility.
+- **P. 59**: Cooked starch is much more efficiently digested.
+- **P. 63**: While many bodybuilders tote eating eggs raw, many hunter-gatherer groups cook theirs very carefully.
+- **P. 64**: Cooking increased protein digestion in the eggs by 40%.
+- **P. 65**: Denaturation: a process defined as when the proteins of a food weaken.
+- **P. 65**: Heat is only one of many factors that can cause denaturation.
+- **P. 67**: The curious case of Alexis St. Martin.
+- **P. 71**: People like their meat tender.
+- **P. 73**: Examples of raw-food in hunter-gatherers.
+- **P. 74**: The importance of connective tissue.
+- **P. 75**: Gelatinization.
+- **P. 76**: Tenderizing meat beneath a saddle.
+- **P. 79**: Intelligent species which do not "cook" but grind their foods?
+- **P. 81**: We evolved to cook.
+- **P. 84**: We can use biology to determine when cooking started.
+- **P. 88**: Archaeology can not tell us when we started using fire.
+- **P. 89**: Fossils tell us what changed and when.
+- **P. 89**: Change in diet is exhibited in rapid change in anatomy.
+- **P. 91**: Why do we like cooked food?
+- **P. 92**: We identify high-caloric foods by sweetness and tenderness.
+- **P. 93**: 15-20k years is the time it takes for a new species to evolve.
+- **P. 95**: Food impacts grouping.
+- **P. 98**: The evolution of homo-erectus was the evolution of cooking.
+- **P. 102**: The origin of the modern human.
+- **P. 107**: Brains pay off socially.
+- **P. 111**: Sociality is not directly related to the cognitive ability. Small guts are related to higher cognitive ability and also related to higher quality diets.
+- **P. 113**: Energy trade-offs are necessary.
+- **P. 124**: Ovens and containers were vital inventions. 
+- **P. 127**: Advances in food prep meant larger brains.
+- **P. 133**: Why we gather with sexual division of labor has long been a mystery.
+- **P. 134**: Women tend to provide staple foods, men provide harder foods.
+- **P. 137**: Division of labor allows for specialization.
+- **P. 138**: Males may have traded meat in exchange for foraged items and cooking.
+- **P. 141**: Humans chew less than great apes.
+- **P. 143**: Humans spend more time hunting than other primates.
+- **P. 146**: Hunting would only create division of labor if food was cooked.
+- **P. 148**: In almost all hunter-gatherer societies men hunt and women cook.
+- **P. 152**: Cooking ends self-sufficiency.
+- **P. 154**: Cooking does not need to be practiced communally, so why is it?
+- **P. 165**: In some societies offering food is offering marriage.
+- **P. 169**: Women are critical for domestic production.
+- **P. 170**: Married women lead lives of status in hunter-gatherer societies.
+- **P. 172**: Zeus Bugs: females remove competition by feeding males. 
+- **P. 174**: Mating is adapted to feeding.
+- **P. 177**: Cooking trapped women.
+- **P. 181**: The thrifty gene hypothesis.
+- **P. 183**: Fire led to loss of hair.
+- **P. 193**: Fire is a traded resource.
+- **P. 197**: The Atwater system.
+- **P. 203**: Higher protein means a higher cost of digestion.
+- **P. 207**: Modern people must find ways to make dependence on cooked foods healthier.

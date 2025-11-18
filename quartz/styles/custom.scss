@@ -1,0 +1,59 @@
+@use "./base.scss";
+
+// put your custom CSS here!
+/* custom.scss */
+:root {
+  --quaternary: rgb(179, 237, 255);  /* your color */
+}
+[data-theme="dark"] {
+  --quaternary: rgb(179, 237, 255);  /* optional dark-mode variant */
+}
+
+/* then use it freely */
+em, i { color: var(--quaternary); font-style: italic; }
+a em, a i { color: var(--quaternary); }
+pre em, pre i, code em, code i, .katex em, .katex i { color: inherit; }
+
+/* custom.scss */
+
+/* The big title at the top of each page */
+.page-header h1 {
+  color: var(--quaternary, var(--tertiary));
+}
+
+/* Explorer: restore distinct defaults + new states */
+.explorer {
+  /* DEFAULTS */
+  /* Files/notes: dark gray */
+  .explorer-ul a {
+    color: var(--darkgray);
+    transition: color 0.2s ease;
+  }
+  /* Keep visited files from turning purple (optional) */
+  .explorer-ul a:visited {
+    color: var(--darkgray);
+  }
+
+  /* Folders: secondary */
+  .folder-button .folder-title {
+    color: var(--secondary);
+    transition: color 0.2s ease;
+  }
+
+  /* HOVER -> tertiary (both files and folders) */
+  .explorer-ul a:hover,
+  .folder-button:hover .folder-title {
+    color: var(--tertiary);
+  }
+
+  /* CLICK / CURRENT PAGE -> quaternary */
+  /* While pressing a link, and for the current page link (Quartz adds .active) */
+  .explorer-ul a:active,
+  .explorer-ul a.active {
+    color: var(--quaternary, var(--tertiary));
+  }
+  /* While pressing a folder button (momentary) */
+  .folder-button:active .folder-title {
+    color: var(--quaternary, var(--tertiary));
+  }
+}
