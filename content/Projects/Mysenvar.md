@@ -16,9 +16,11 @@ tags:
 
 Besides this, *Mysenvar* is also at its best when actively explored. *Mysenvar* is a setting with an ever-growing history, and while curation is necessary, it can—not will—ruin the exploratory nature of the setting. It's ok to summarize and organize information, but it should always leave the possibility for readers to learn more and dig deeper. Exploration opens up more avenues for the aforementioned extrapolation.
 # Encyclopedia Mysenvaria
+The *Encyclopedia Mysenvaria* is the primary outlet for the setting of *Mysenvar* and the definitive source of any information regarding the setting. It's a curated wiki-like website built—like this blog—using [Quartz](https://quartz.jzhao.xyz/) and hosted via [GitHub](https://github.com). 
 
-## Expansion Through the Directing of TTRPGs
+The premise of the Encyclopedia is that it's open for anyone to read and use at any time for anything—all the content, including images, is licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/)! The Encyclopedia provides a backbone structure to readers to use for whatever they want: TTRPG campaigns, short stories, artwork, or whatever else they can imagine! 
 
-# Mysenvaria Docuseries
+However, the *Encyclopedia Mysenvaria* is daunting. It's hundreds of pages with tens of thousands of words. At the time of writing this page it constitutes a small novel, but as I continue to write it will grow drastically. The Encyclopedia attracts a niche audience, which isn't necessarily bad, but I'm proud of Mysenvar as a setting and want it to appeal to a larger audience.
+# Video Content
 
-# Short Stories
+# Misc. Media
