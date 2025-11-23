@@ -5,7 +5,7 @@ tags:
  - personal
  - project/worldbuilding
 ---
-## I wisely started with a map.
+## "I wisely started with a map."
 I've been worldbuilding since I started drawing and writing, but what's worldbuilding? Worldbuilding is the process of creating a believable and immersive setting, often for books or games—although, I worldbuild for fun mostly. At the moment I have two primary projects: [[Projects/Mysenvar|Mysenvar]] and [[Projects/The Argonaut Experiment|The Argonaut Experiment]]. I also find myself seldom working on a third project, [[Projects/Hithered|Hithered]]. For more information on any of the projects, you can visit their respective articles.
 - *Mysenvar* is a low-magic fantasy setting, which readers may explore through the *[Encyclopedia Mysenvaria](https://mysenvaria.ragno.wiki/)*. It's a setting with a major focus on immersion, created with the intent that anyone can use it.
 - *The Argonaut Experiment* is a high-magic science-fiction setting with planned multi-media projects. TAE takes place in a galaxy devoid of humanity, where the prominent sophonts have a wide range of body plans and psychologies, with the intent to explore the intricacies of how vastly different alien civilizations can work together to triumph through adversity.

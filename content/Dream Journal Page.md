@@ -5,9 +5,11 @@ tags:
   - meta
 ---
 
-I've been writing down dreams since the start of 2020, though the frequency of me remembering my dreams appears to have decreased since I originally started. Dreams are storified and sometimes edited to be more suitable[^1] for a general audience.
+I've been keeping track of my dreams since the start of 2020, when a friend group started a public dream journaling space. I went back through those spaces and picked back up all the dreams I had jotted down and centralized them all here, in my blog's dream journal. The frequency at which I remember my dreams seems to fluctuate greatly from month-to-month and year-to-year.
 
-I'm of the opinion that dreams are (relatively) meaningless, just a result of our conscious self attempting to perceive meaningless junk as our subconscious cleans house. That, however, does not make it unfun to look back at dreams and analyze them, and I think it can be a very valid form of introspection (Not because they are actually meaningful, but because by analyzing them we give it meaning). I also think it's fun writing practice to convert my dreams into little short-stories, attempting to maintain the absurdity while balancing it with legibility.
+All dreams you'll find here are 'storified' to an extent—that is to say, I've rewritten them to be legible (though still nonsensical). And I've excluded details which are either too personal or otherwise non-suitable for a space on the public internet.
+
+I'm of the opinion that our dreams are relatively meaningless—they're just a result of our conscious brain picking up signals while the subconscious cleans house at night. That doesn't make it unfun to look back and analyze them though, and I think it's a very valid form of introspection (Not because they have meaning, but because by analyzing them we assign meaning).
 
 > [!warning] Content Warning
 > Be warned! Content across some of these pages may be triggering, unnerving, and grotesque. Some of these stories include violence against people and animals. Some of these stories include depictions of suicide.
@@ -47,7 +49,7 @@ I'm of the opinion that dreams are (relatively) meaningless, just a result of ou
 - 5/3/24: [[Dream Journal/2024/Getaway Got Away|Getaway Got Away]]
 - 2/9/24: [[Dream Journal/2024/Pedo Beat Down|Pedo Beat Down]]
 # 2023
-- 12/31/23: [[Dream Journal/2023/Untitled 19|Untitled 19]]
+- 12/31/23: [[Dream Journal/2023/Dream Anthology|Dream Anthology]]
 - 12/11/23: [[Dream Journal/2023/Penguin Problems|Penguin Problems]]
 - 12/10/23: [[Dream Journal/2023/Untitled 16|Untitled 16]]
 - 11/22/23: [[Dream Journal/2023/Infant Beatup|Infant Beatup]]
@@ -131,5 +133,3 @@ I'm of the opinion that dreams are (relatively) meaningless, just a result of ou
 - 6/2/20: [[Dream Journal/2020/The Surgeon|The Surgeon]]
 - 4/9/20: [[Dream Journal/2020/Tropico 7|Tropico 7]]
 - 3/27/20: [[Dream Journal/2020/Couch Quilting|Couch Quilting]]
-
-[^1]: Some of my dreams are disgusting or downright completely full of gore. 
