@@ -1,0 +1,147 @@
+---
+title: "The Light Eaters"
+enableToc: true
+tags:
+ - reading/notes
+---
+
+This book was an eye-opening experience regarding the intelligence of the world around me, on the same level as [[Books/Other Minds|Other Minds]] by Peter Godfrey-Smith. An amazing read which has left me with so many new ideas for my own creative projects but also left me profoundly changed in the way I will forever interact with the world around me.
+
+- **Pg. 3**: Plant whose roots poison the soil.
+- **Pg. 9**: Slippery flowers which deter nectar-thieving ants.
+- **Pg. 12**: Descriptions of various ferns.
+- **Pg. 12**: People believed finding the invisible seeds of ferns could grant humanity invisibility.
+- **Pg. 13**: Ferns sabotage each others' sperm.
+- **Pg. 16**: More plant descriptions. 
+- **Pg. 17**: *The Ecology of Imagination in Childhood* by Edith Cobb
+- **Pg. 20**: If complexity was not backgrounded.
+- **Pg. 24**: Memory in regrowth?
+- **Pg. 26**: How life came to be.
+- **Pg. 27**: We recycle the sugars of plants.
+- **Pg. 28**: Plants overcome adversity.
+- **Pg. 30**: Various cool Hawaiian plants.
+- **Pg. 31**: Rocket-like seed?
+- **Pg. 32**: Plants are modular.
+- **Pg. 33**: 'Naive' plants.
+- **Pg. 34**: Plant blindness?
+- **Pg. 35**: Plants live on different time scales, but that doesn't cause blindness.
+- **Pg. 36**: How other cultures see plants. 
+- **Pg. 40**: 1976 was the first time the consciousness of animals was questioned.
+- **Pg. 42**: Old botanical texts.
+- **Pg. 44**: Charles Darwin's books on plants.
+- **Pg. 45**: Science is a series of abrupt paradigm shifts. 
+- **Pg. 48**: We don't need new words for functionally similar things, we just need prefixes.
+- **Pg. 53**: Plants communicating via scent?
+- **Pg. 54**: Trees using pheromones to fight off insects.
+- **Pg. 56**: Plant seeds have a decision-making center. 
+- **Pg. 58**: Trees capable of changing leaf composition? Warning other plants too?
+- **Pg. 59**: Trees with the ability to suffocate insect eggs?
+- **Pg. 61**: Man who couldn't prove genetics because his plants reproduced asexually.
+- **Pg. 62**: Acacia killed livestock because farmers were greedy.
+- **Pg. 63**: Giraffes eat down-wind so trees cannot communicate.
+- **Pg. 65**: Plants can choose who to communicate with.
+- **Pg. 66**: Plants have 'dialects' and understand family.
+- **Pg. 67**: Plants with enemies?
+- **Pg. 70**: How they're studying personality.
+- **Pg. 71**: Could domestic plants be 'deaf' or 'mute'?
+- **Pg. 72**: Judgement & response are personality.
+- **Pg. 73**: What plants want is different than what we want.
+- **Pg. 74**: Crop fields—alongside genetic diversity—may need diversity in personality?
+- **Pg. 75**: Electricity has vibrancy.
+- **Pg. 76**: A chain reaction between cells.
+- **Pg. 77**: Plants can go under anesthesia.
+- **Pg. 78**: In some schools of thought the presence of consciousness it evident in its inverse.
+- **Pg. 79**: Thigmomorphogenesis.
+- **Pg. 81**: Plants are aware of being touched.
+- **Pg. 83**: Alexander Graham Bell & the telephone for his dead brother.
+- **Pg. 90**: Plants have designed the world around them.
+- **Pg. 91**: Don't know how plants tell gravity.
+- **Pg. 92**: How do plants sense without a brain?
+- **Pg. 92**: Glowing jelly fish gene.
+- **Pg. 94**: Glowing plants.
+- **Pg. 95**: Animal that uses glutamate to fuck with plants?
+- **Pg. 97**: Plants don't have nervous systems, they have their own systems.
+- **Pg. 97**: Why not call it a nervous system? It's convergent evolution.
+- **Pg. 100**: Plants can count.
+- **Pg. 100**: The whole plant is the brain?
+- **Pg. 106**: Tomatoes turn caterpillars into cannibals.
+- **Pg. 107**: Plants react to sounds.
+- **Pg. 109**: Ecological relevance.
+- **Pg. 109**: What's the purpose of the hairs on plants?
+- **Pg. 111**: Plant's roots heal.
+- **Pg. 112**: Plants produce their own special sounds.
+- **Pg. 114**: Echolocation in plants.
+- **Pg. 115**: Contested study proving plants can learn?
+- **Pg. 126**: Vernalization
+- **Pg. 129**: "Plants in motion" & the dodder vine.
+- **Pg. 129**: Dodder vine chooses between plants.
+- **Pg. 133**: Plants run on a constant stream of choices. 
+- **Pg. 133**: Memory in plants might be just as physical as the memory in our neurons.
+- **Pg. 135**: Plants move like animals, through space. But they do it through growth.
+- **Pg. 136**: A universe of 'selves'.
+- **Pg. 137**: *Semiosis* by Sue Burke.
+- **Pg. 139**: Corn-caterpillar-wasp relationship.
+- **Pg. 141**: Sticky dew to glue insect mouths shut?
+- **Pg. 142**: Gall-forming insects.
+- **Pg. 143**: "Ant plants".
+- **Pg. 144**: Plants produce more chemicals than our current tools can detect.
+- **Pg. 145**: Orchid that tricks wasps into sex.
+- **Pg. 147**: Is the wasp 'indulging' in the pleasure?
+- **Pg. 149**: Plants that work together to attract more pollinators.
+- **Pg. 153**: Plant's chemical synthesis is like language.
+- **Pg. 153**: Birth absorb the chemicals of their neighbors to ward off weevils.
+- **Pg. 154**: Air pollution stifles plant communication.
+- **Pg. 156**: Domestic corn can't call wasps.
+- **Pg. 158**: The chameleon vine, which can warp into any other plant.
+- **Pg. 161**: Vines are described as 'grasping' in the manner of creatures.
+- **Pg. 163**: Roots grow much longer in labs. This may be because of an abundance of resources, but it may also be the root's attempt to avoid light. The latter is proven in some plants.
+- **Pg. 165**: "Vavilovian mimicry": Rye & oats are weeds that learned to mimic wheat.
+- **Pg. 166**: To what extent are we yoked into the service of plants?
+- **Pg. 166**: Plants are the primary organisms—they survive without us.
+- **Pg. 167**: Despite common sense, the outside layer of a plant's leaves are not photosynthetic; they may be simple eyes.
+- **Pg. 169**: Parasitic vines capable of sight?
+- **Pg. 170**: Plants have photoreceptors which they use to detect the amount of light passing through leaves around them; it may be how they detect kin?
+- **Pg. 175**: Ground nuts?
+- **Pg. 175**: Eating the tips of bamboo?
+- **Pg. 177**: Slapping a plant for smell? 
+- **Pg. 180**: Perhaps the plant mimic is using other plants evolutionary strategies? It evolved to be as plastic as possible.
+- **Pg. 181**: Plants with more resources can be more plastic.
+- **Pg. 182**: Perhaps microorganisms are hijacking the plant?
+- **Pg. 182**: 'Small' and 'micro' RNA comes from microorganisms and makes up as much as 1/3rd of our own DNA. In plants they may significantly alter plant plasticity? 
+- **Pg. 183**: Gianoli's theory about microbes is just as groundbreaking as plant vision.
+- **Pg. 183**: We live in a world of cascading individuals.
+- **Pg. 185**: A 'morphological field'. 
+- **Pg. 186**: Our microbiomes impacts many things; depression, anxiety, autism, who we may be attracted to, even who mosquitoes like?
+- **Pg. 188**: 'Holobiont'.
+- **Pg. 189**: Eukaryotes are like solids, they're in genetic molds. Bacteria are like liquids and gases, they shift their genetics. 
+- **Pg. 194**: Eusocial ferns?
+- **Pg. 196**: Plants have different strategies & components, like animals.
+- **Pg. 198**: Growing sunflowers with their kin increases crop yield.
+- **Pg. 201**: Carnivorous plants hunt together?
+- **Pg. 202**: Culture is the idiosyncratic way that being conduct business with one another.
+- **Pg. 203**: Flowers invest more in attracting pollinators when around kin.
+- **Pg. 204**: Domestic crops may be less altruistic.
+- **Pg. 205**: In the presence of an entirely unrelated species, siblings rush to grow and even coordinate their germination.
+- **Pg. 207**: The species of fungi in plants change features of the plant, like ability to withstand brine, oxidant productions, even flavor.
+- **Pg. 207**: "What we call 'Plants' are in fact fungi that evolved to farm algae, and algae that evolved to farm fungi."
+- **Pg. 209**: A damaged plant makes bad decisions.
+- **Pg. 211**: Allelopathic.
+- **Pg. 213**: Evolution isn't as much survival of the fittest as we once thought.
+- **Pg. 215**: Plants which burry their own seeds?
+- **Pg. 216**: Some plants care for their seeds, like a bird their eggs.
+- **Pg. 217**: Plants care for their children in a multitude of ways.
+- **Pg. 217**: Parent plants pass on skills for survival; a specific flower will produce offspring with spines in previously undefended areas.
+- **Pg. 221**: When an old paradigm falls away everyone acts like they always knew the new one.
+- **Pg. 226**: There is no control environment.
+- **Pg. 227**: Emerald green sea slug eats cells to become photosynthetic itself.
+- **Pg. 228**: "Compenetration".
+- **Pg. 230**: "Everything, at ever level of life-then, is an ecosystem. We are more like a system than a single unit. All biology is ecology."
+- **Pg. 230**: "Epigenetics".
+- **Pg. 233**: Perhaps invasion relies on a few sole highly-plastic individuals?
+- **Pg. 242**: "General system theory". 
+- **Pg. 243**: "That's the nature of pessimism; it forecloses the imagination of hope."
+- **Pg. 246**: *The Author of the Acacia Seed*
+- **Pg. 247**: *Plants in Science-Fiction: Speculative Vegetation*
+- **Pg. 253**: 2021 Minnesota White Earth Band represented wild rice.
+- **Pg. 258**: Underground 'ghost' forest?
+- **Pg. 258**: "Perhaps intelligence is not measured in success, but in approach."
