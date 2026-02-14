@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes animal violence.
+> This story includes violence against animals.
 
 I walked into my home, our beautiful Bengal Tiger waiting for me on the couch. She got up and approached me, rubbing her soft fur against my body, asking for petting. I got down to the floor and began rubbing around her ears, her purr practically vibrating my entire body. Then she took a nip, a playful one, asking for a bit of a tussle. I did not reciprocate, beginning to stand up.
 

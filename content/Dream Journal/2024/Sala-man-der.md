@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence and drug use.
+> This story includes violence and drug use.
 
 I walked outside to discover dead animals strewn everywhere in the yard. I knew the cause: a giant all-consuming salamander had entered out home. Using basic instruments from around the house the salamander had disguised itself as a person. It was in our house, eating everything we owned, capable of teleportation and electric expulsion.
 

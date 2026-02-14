@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence involving animals and people.
+> This story includes violence involving animals and people.
 
 My family and I were road tripping across America when we had stopped at a fancy restaurant for dinner. An old friend from school was eating there too and we would begin chatting. I remember an old bag which they had left at my place many years ago and return it to them. Inside the bag, it is revealed, there is incredibly important research equipment which they had been searching for all these years, requiring it to finish their experiments.
 

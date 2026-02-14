@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence.
+> This story includes violence against people.
 
 We were all home: my mother, father, grandmother, and I. The world was dark, including our house, the only light coming in faintly through the windows. A monster prowled through our home, leaving few signs of its existence. All of us moved through the house in groups, attempting to avoid the beast and get to safety.
 

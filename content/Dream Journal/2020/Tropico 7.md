@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning  
-> Content on this page may be triggering to some. This story includes violence against animals and people.
+> This story includes violence against animals and people.
 
 A man is fighting two others outside of a grocery store, bashing their skulls into carts and vehicles. As the two others pass out from exhaustion the man, who is now I, walks away nonchalantly. No destination in mind I walk around town before my mind is again transported into another body, that of a nearby ladies. I continue to walk through town doing various random tasks, including stealing a backpack from gang members, but mostly perusing storefronts.
 

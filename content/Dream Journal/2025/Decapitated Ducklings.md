@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence against animals.
+> This story includes violence against animals.
 
 I had come home from work urgently, having received a distress call from my grandmother that our home had some kind of horrific infestation. Upon arrival I enter my bedroom to discover it is infested with ducklings and kittens.
 

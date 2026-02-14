@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence, graphic scenes, and attempted suicide.
+> This story includes violence against people and attempted suicide.
 > 
 > If someone you know is struggling, consider reaching out to a mental health professional or contacting the Suicide and Crisis Lifeline.
 

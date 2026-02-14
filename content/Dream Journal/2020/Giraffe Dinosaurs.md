@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes animal infanticide.
+> This story includes animal infanticide.
 
 I was walking home from school one day when I mistakenly took a wrong turn, stumbling across Claire Dearing from Jurassic World. She was handling a number of dinosaurs and was telling me about the different animal's DNA which each of them were made from. I discovered that the dinosaurs would participate in long and dangerous fights over their mates, as I watched two adult triceratops battle to the death over a female.
 

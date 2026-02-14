@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes gun violence.
+> This story includes violence against people.
 
 My parents had been searching for a new house for some time, and they had finally discovered what they were looking for. The building used to be a daycare for disabled children, abandoned for unknown reasons, and purportedly haunted. I had entered an old play room, creepy signs and toys were scattered across the space. "I'll be deaf soon, but then I'll hear new voices!" read one of the many hand-written signs, a childlike drawing of a person being struck by a vehicle drawn in crayon on the paper.
 

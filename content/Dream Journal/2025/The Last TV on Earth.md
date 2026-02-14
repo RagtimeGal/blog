@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence against people.
+> This story includes violence against people.
 
 My grandmother and I were watching a documentary titled *The Last TV on Earth*. It was presumably about the move from the analog age to the digital age.
 

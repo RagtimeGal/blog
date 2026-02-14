@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes suicide.
+> This story includes suicide.
 > 
 > If someone you know is struggling, consider reaching out to a mental health professional or contacting the Suicide and Crisis Lifeline.
 

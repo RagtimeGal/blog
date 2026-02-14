@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence.
+> This story includes grotesque violence.
 
 I, the DOOM Slayer, wield the Crucible while standing atop the peak of a mountain, overlooking the vast Hyrulean landscape. In the sky flies a Ganon-like hivemind beast, protected by a massive shield. Just earlier I had defeated the primary hive, causing the Ganon-like monster to retreat into the skies. Now it had to go too.
 

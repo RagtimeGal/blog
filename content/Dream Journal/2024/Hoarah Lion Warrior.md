@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence.
+>  This story includes violence.
 
 The zoo was beautiful, completely contained inside of a building with gorgeous wooden walls and ornate glass frames containing the animals. Most of the animals were native to Australia and Madagascar, except for the lion exhibit—which felt weirdly out of place. I stood close to the glass, looking at the horribly overcrowded exhibit. One of the lions calmly began unlocking the ornate glass doors which served as the entrance to their exhibit.
 

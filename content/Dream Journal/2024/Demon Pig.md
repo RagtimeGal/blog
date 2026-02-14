@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes terrorism and a hijacking.
+> This story includes violence, particularly terrorism and hijacking.
 
 I had just gotten my pilot's license and this was my first official flight working under a flight agency. Mid-way through the flight a group of terrorists force their way into the cockpit and take control of the plane, forcing myself and others onboard to construct bombs with materials they brought aboard. Upon discovering I am too stupid to construct bombs they pistol whipped me unconscious.
 

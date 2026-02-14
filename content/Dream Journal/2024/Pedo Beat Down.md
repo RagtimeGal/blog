@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence and implied child predation.
+> This story includes violence and implied child predation.
 
 It was a public mall, people walking every which way in a beautifully chaotic dance. Amidst the crowd though stood out a strange man, sitting on a bench and creepily watching children in the crowd. Without further thought I rushed over to the man and began a brutal beat down, at one point ripping off one of his ears.
 

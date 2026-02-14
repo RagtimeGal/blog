@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!warning] Content Warning  
-> Content on this page may be triggering to some. This story includes violence.
+> This story includes violence, particularly human sacrifice.
 
 Aragorn and Legolas accompanied me in a fancy car on our way to Italy, a South American country on Mexico's south border. The two of them sat in the front seats of the ride and were discussing something in private, I could, however, overhear them. They were talking about how I would make such a great sacrifice to mend human-elf relations and how the Queen would be so pleased.
 

@@ -7,7 +7,7 @@ tags:
 ---
 
 > [!warning] Content Warning  
-> Content on this page may be triggering to some. This story includes animal violence.
+> This story includes animal violence.
 
 A new Jurassic World movie had just dropped and I went to go see it with my family. The movie was about dinosaurs living in our world, but less-so like Dominion and more-so like a Prehistoric Planet-esc documentary.
 

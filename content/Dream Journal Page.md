@@ -12,7 +12,7 @@ All dreams you'll find here are 'storified' to an extent—that is to say, I've 
 I'm of the opinion that our dreams are relatively meaningless—they're just a result of our conscious brain picking up signals while the subconscious cleans house at night. That doesn't make it unfun to look back and analyze them though, and I think it's a very valid form of introspection (Not because they have meaning, but because by analyzing them we assign meaning).
 
 > [!warning] Content Warning
-> Be warned! Content across some of these pages may be triggering, unnerving, and grotesque. Some of these stories include violence against people and animals. Some of these stories include depictions of suicide.
+> Be warned! Content across some of these pages may be unnerving to some or otherwise explain grotesque dream sequences. Some of these stories include violence against people and animals. Some of these stories include depictions of suicide.
 > 
 > If you, or someone you know is struggling, consider reaching out to a mental health professional or contacting the Suicide and Crisis Lifeline.
 # Personal Favorites
@@ -21,6 +21,9 @@ I'm of the opinion that our dreams are relatively meaningless—they're just a r
 3. [[Dream Journal/2020/Porcelain People|Porcelain People]]
 4. [[Dream Journal/2024/Demon Pig|Demon Pig]]
 5. [[Dream Journal/2023/FNaF Carwash|FNaF Carwash]]
+# 2026
+- 2/13/26: [[Unfinished/Dream Journal/2026/Spider Plush|Spider Plush]], [[Unfinished/Dream Journal/2026/Pyramid Scheme|Pyramid Scheme]], [[Unfinished/Dream Journal/2026/Insomniac Party|Insomniac Party]]
+- 1/16/26: [[Dream Journal/2026/Talk show Stroke|Talk show Stroke]]
 # 2025
 - 10/14/25: [[Dream Journal/2025/LEGO Antman|LEGO Antman]]
 - 7/14/25: [[Dream Journal/2025/The Last TV on Earth|The Last TV on Earth]]
@@ -76,15 +79,15 @@ I'm of the opinion that our dreams are relatively meaningless—they're just a r
 - 10/18/22: [[Dream Journal/2022/Halloween Otter|Halloween Otter]], [[Dream Journal/2022/Denny's Divorce|Denny's Divorce]]
 - 9/27/22: [[Dream Journal/2022/Vertebrae Readjustment|Vertebrae Readjustment]]
 - 9/26/22: [[Dream Journal/2022/Terraria Troubles|Terraria Troubles]]
-- 9/5/22: [[Unfinished/Dream Journal/2022/Untitled 11|Untitled 11]]
-- 8/1/22: [[Unfinished/Dream Journal/2022/Untitled 10|Untitled 10]]
-- 6/18/22: [[Unfinished/Dream Journal/2022/Untitled 9|Untitled 9]]
-- 6/12/22: [[Unfinished/Dream Journal/2022/Untitled 8|Untitled 8]]
+- 9/5/22: [[Dream Journal/2022/Glass Mansion|Glass Mansion]]
+- 8/1/22: [[Dream Journal/2022/Summerween Trickster|Summerween Trickster]], [[Dream Journal/2022/Dream Council|Dream Council]]
+- 6/18/22: [[Dream Journal/2022/Brain Town Troubles|Brain Town Troubles]]
+- 6/12/22: [[Dream Journal/2022/Toilet Mosiah|Toilet Mosiah]]
 - 6/1/22: [[Dream Journal/2022/Donkey Issues|Donkey Issues]]
-- 5/21/22: [[Unfinished/Dream Journal/2022/Untitled 6|Untitled 6]]
-- 5/8/22: [[Unfinished/Dream Journal/2022/Untitled 5|Untitled 5]]
-- 1/14/22: [[Unfinished/Dream Journal/2022/Untitled 4|Untitled 4]]
-- 1/1/22: [[Unfinished/Dream Journal/2022/Untitled 3|Untitled 3]]
+- 5/21/22: [[Dream Journal/2022/Spirit Animal|Spirit Animal]]
+- 5/8/22: [[Dream Journal/2022/Person Organ|Person Organ]]
+- 1/14/22: [[Dream Journal/2022/Abandoned School Potion|Abandoned School Potion]]
+- 1/1/22: [[Dream Journal/2022/NOLA Polycule|NOLA Polycule]]
 # 2021
 - 12/12/21: [[Unfinished/Dream Journal/2021/Untitled 22|Untitled 22]]
 - 11/12/21: [[Unfinished/Dream Journal/2021/Untitled 21|Untitled 21]]
@@ -95,7 +98,7 @@ I'm of the opinion that our dreams are relatively meaningless—they're just a r
 - 7/21/21: [[Unfinished/Dream Journal/2021/Untitled 17|Untitled 17]]
 - 7/20/21: [[Dream Journal/2021/Zombie Woman|Zombie Woman]]
 - 6/27/21: [[Unfinished/Dream Journal/2021/Untitled 14|Untitled 14]]
-- 6/19/21: [[Unfinished/Dream Journal/2021/Untitled 13|Untitled 13]]
+- 6/19/21: [[Dream Journal/2021/Venom Orphanage|Venom Orphanage]]
 - 5/26/21: [[Dream Journal/2021/Witch Hunted|Witch Hunted]]
 - 5/19/21: [[Unfinished/Dream Journal/2021/Untitled 11|Untitled 11]]
 - 4/24/21: [[Unfinished/Dream Journal/2021/Untitled 10|Untitled 10]], [[Dream Journal/2021/Double Dreams|Double Dreams]]

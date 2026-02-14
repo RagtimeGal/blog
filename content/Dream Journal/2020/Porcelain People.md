@@ -8,7 +8,7 @@ tags:
 ---
 
 > [!warning] Content Warning
-> Content on this page may be triggering to some. This story includes violence, including implied violence against children.
+> This story includes violence against people, including implied violence against children.
 
 The apocalypse has ravaged the world and all of us are mutated. Out skin shimmers in the light of the setting sun, clanking and cracking as we move, like porcelain. The six of us—two kids, myself, two guys, and the eldest of us—sat around the table, discussing what we had done throughout the day. Me and one of the kids were sent outside to get the "farm" operating.
 
