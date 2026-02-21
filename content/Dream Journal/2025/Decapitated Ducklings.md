@@ -1,5 +1,5 @@
 ---
-title: Decapitated Ducklings
+title: "Decapitated Ducklings"
 enableToc: false
 date: 1/8/25
 tags:

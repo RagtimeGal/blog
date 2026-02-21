@@ -1,5 +1,5 @@
 ---
-title: Blue Cat
+title: "Blue Cat"
 enableToc: false
 date: 4/25/25
 tags:

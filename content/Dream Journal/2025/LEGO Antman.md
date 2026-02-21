@@ -1,5 +1,5 @@
 ---
-title: LEGO Antman
+title: "LEGO Antman"
 enableToc: false
 date: 10/14/25
 tags:

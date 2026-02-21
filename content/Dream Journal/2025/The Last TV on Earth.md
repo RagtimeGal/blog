@@ -4,6 +4,7 @@ enableToc: false
 date: 7/14/25
 tags:
  - dream
+ - content-warning
 ---
 
 > [!warning] Content Warning

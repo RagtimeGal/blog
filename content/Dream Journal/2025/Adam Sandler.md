@@ -1,5 +1,5 @@
 ---
-title: Adam Sandler
+title: "Adam Sandler"
 enableToc: false
 date: 2/21/25
 tags:

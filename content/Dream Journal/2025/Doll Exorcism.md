@@ -1,5 +1,5 @@
 ---
-title: Doll Exorcism
+title: "Doll Exorcism"
 enableToc: false
 date: 5/15/25
 tags:

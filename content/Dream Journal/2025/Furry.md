@@ -1,5 +1,5 @@
 ---
-title: Furry
+title: "Furry"
 enableToc: false
 date: 6/1/25
 tags:

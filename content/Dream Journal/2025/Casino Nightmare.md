@@ -1,5 +1,5 @@
 ---
-title: Casino Nightmare
+title: "Casino Nightmare"
 enableToc: false
 date: 3/12/25
 tags:

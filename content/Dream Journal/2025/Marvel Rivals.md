@@ -1,5 +1,5 @@
 ---
-title: Marvel Rivals
+title: "Marvel Rivals"
 enableToc: false
 date: 4/12/25
 tags:

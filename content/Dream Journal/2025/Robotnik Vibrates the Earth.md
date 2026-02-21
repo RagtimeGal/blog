@@ -1,5 +1,5 @@
 ---
-title: Robotnik Vibrates the Earth
+title: "Robotnik Vibrates the Earth"
 enableToc: false
 date: 5/18/25
 tags:

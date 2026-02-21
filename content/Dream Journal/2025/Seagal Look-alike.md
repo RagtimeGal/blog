@@ -1,5 +1,5 @@
 ---
-title: Seagal Look-alike
+title: "Seagal Look-alike"
 enableToc: false
 date: 5/4/25
 tags:

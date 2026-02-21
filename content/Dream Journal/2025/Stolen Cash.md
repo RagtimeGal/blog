@@ -1,5 +1,5 @@
 ---
-title: Stolen Cash
+title: "Stolen Cash"
 enableToc: false
 date: 2/4/25
 tags:
