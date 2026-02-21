@@ -18,9 +18,10 @@ Besides this, *Mysenvar* is also at its best when actively explored. *Mysenvar* 
 # Encyclopedia Mysenvaria
 The *Encyclopedia Mysenvaria* is the primary outlet for the setting of *Mysenvar* and the definitive source of any information regarding the setting. It's a curated wiki-like website built—like this blog—using [Quartz](https://quartz.jzhao.xyz/) and hosted via [GitHub](https://github.com). 
 
-The premise of the Encyclopedia is that it's open for anyone to read and use at any time for anything—all the content, including images, is licensed under [CC BY-NC](https://creativecommons.org/licenses/by-nc-sa/4.0/)! The Encyclopedia provides a backbone structure to readers to use for whatever they want: TTRPG campaigns, short stories, artwork, or whatever else they can imagine! 
+The premise of the Encyclopedia is that it's open for anyone to read and use at any time for anything—all the content, including images, is licensed under [CC BY-NC SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)! The Encyclopedia provides a backbone structure to readers to use for whatever they want: TTRPG campaigns, short stories, artwork, or whatever else they can imagine! 
 
-However, the *Encyclopedia Mysenvaria* is daunting. It's hundreds of pages with tens of thousands of words. At the time of writing this page it constitutes a small novel, but as I continue to write it will grow drastically. The Encyclopedia attracts a niche audience, which isn't necessarily bad, but I'm proud of Mysenvar as a setting and want it to appeal to a larger audience.
-# Video Content
+However, the *Encyclopedia Mysenvaria* is daunting. It's hundreds of pages with tens of thousands of words. At the time of writing this page it constitutes a small novel, but as I continue to write it will grow drastically. But the Encyclopedia is not all I want to do with *Mysenvar*.
+# Other Content
+Besides the Encyclopedia I've been working on writing a documentary-style video series on *Mysenvar*. I'm not entirely sure when these will release, but I'm hoping sometime in the current year (2026). The videos are meant to be easier-to-digest segments taken from the Encyclopedia, intended to help ease in possible interested readers while also creating a new audience for the project.
 
-# Misc. Media
+I'm interested in writing up some TTRPG adventure plans which take place in *Mysenvar*. I have a few in mind which I would like to personally run, like a *Monster Hunter*-esque campaign where players are enlisted into a militia in the New World. I also have a survival campaign in mind which takes place during the God-War and a murder mystery! I'm not entirely sure when any of this will happen either—further into the future than I would like to admit, likely.
